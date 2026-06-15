@@ -21,10 +21,7 @@
     --the-amazing-race-travel-guide-just-in-case-items-section-color: #800080;
     --the-amazing-race-travel-guide-just-in-case-items-section-text-color: #ffa500;
 }
-#the_amazing_race_travel_guide_main_page,
-#the_amazing_race_travel_guide_challenge_page,
-#the_amazing_race_travel_guide_travel_booking_page,
-#the_amazing_race_travel_guide_packing_page{
+#the_amazing_race_travel_guide_travel_booking_page{
     background-color: var(--the-amazing-race-travel-guide-website-bg-color);
     border: 10px solid var(--the-amazing-race-travel-guide-website-bg-border-color);
 }
