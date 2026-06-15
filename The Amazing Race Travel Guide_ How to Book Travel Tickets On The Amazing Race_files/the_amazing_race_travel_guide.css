@@ -108,6 +108,7 @@
 #the_amazing_race_travel_guide_land_travel_section{
     color: var(--the-amazing-race-travel-guide-footer-text-color);
     background-color: var(--the-amazing-race-travel-guide-website-bg-border-color);
+    padding: 0 5px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     grid-area: land;
 }
@@ -120,6 +121,7 @@
 #the_amazing_race_travel_guide_water_travel_section{
     color: var(--the-amazing-race-travel-guide-water-travel-section-text-color);
     background-color: var(--the-amazing-race-travel-guide-water-travel-section-color);
+    padding: 0 5px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 15px;
     grid-area: water;
@@ -133,6 +135,7 @@
 #the_amazing_race_travel_guide_air_travel_section{
     color: var(--the-amazing-race-travel-guide-water-travel-section-color);
     background-color: var(--the-amazing-race-travel-guide-footer-text-color);
+    padding: 0 5px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 15px;
     grid-area: air;
