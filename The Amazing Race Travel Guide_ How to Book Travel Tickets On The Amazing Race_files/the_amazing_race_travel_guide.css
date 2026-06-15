@@ -153,6 +153,7 @@
 #the_amazing_race_travel_guide_land_travel_section{
     color: var(--the-amazing-race-travel-guide-footer-text-color);
     background-color: var(--the-amazing-race-travel-guide-website-bg-border-color);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     grid-area: land;
 }
 #the_amazing_race_travel_guide_water_travel_section{
