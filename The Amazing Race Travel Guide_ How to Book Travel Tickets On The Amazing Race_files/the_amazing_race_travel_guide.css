@@ -131,6 +131,7 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: var(--the-amazing-race-travel-guide-website-bg-border-color);
     color: var(--the-amazing-race-travel-guide-footer-text-color);
+    padding: 0 5px;
     font-size: 25px;
     grid-area: footer;
 }
