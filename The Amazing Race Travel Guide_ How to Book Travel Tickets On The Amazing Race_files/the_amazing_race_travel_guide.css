@@ -91,11 +91,11 @@
     color: var(--the-amazing-race-travel-guide-nav-links-active-color);
 }
 #the_amazing_race_travel_guide_travel_booking_webpage_title{
-    margin-left: 250px;
+    margin-left: 265px;
 }
 #the_amazing_race_travel_guide_airport_chaos_image{
     filter: contrast(75%) opacity(80) grayscale(0.4); 
-    margin-left: 185px;
+    margin-left: 170px;
 }
 #the_amazing_race_travel_guide_travel_booking_webpage_description{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
