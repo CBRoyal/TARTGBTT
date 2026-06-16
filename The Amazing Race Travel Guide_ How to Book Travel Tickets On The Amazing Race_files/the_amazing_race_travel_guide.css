@@ -103,7 +103,7 @@
     grid-area: description;
 }
 #the_amazing_race_travel_guide_land_travel_section_title{
-    margin-left: 480px;
+    margin-left: 510px;
 }
 #the_amazing_race_travel_guide_land_travel_section{
     color: var(--the-amazing-race-travel-guide-footer-text-color);
@@ -113,7 +113,7 @@
     grid-area: land;
 }
 #electric_trains_image{
-    margin-left: 380px;
+    margin-left: 410px;
 }
 #the_amazing_race_travel_guide_water_travel_section_title{
     margin-left: 215px;
