@@ -190,4 +190,25 @@
         "water water air"
         "footer footer footer";
     }
+    .the_amazing_race_travel_guide_title{
+        grid-area: header;
+    }
+    .the_amazing_race_travel_guide_nav_links{
+        grid-area: sidebar;
+    }
+    #the_amazing_race_travel_guide_travel_booking_webpage_description{
+        grid-area: description;
+    }
+    #the_amazing_race_travel_guide_land_travel_section{
+        grid-area: land;
+    }
+    #the_amazing_race_travel_guide_water_travel_section{
+        grid-area: water;
+    }
+    #the_amazing_race_travel_guide_air_travel_section{
+        grid-area: air;
+    }
+    .the_amazing_race_travel_guide_footbars{
+        grid-area: footer;
+    }
 }
